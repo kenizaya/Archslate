@@ -1,0 +1,61 @@
+.container {
+  background-color: white;
+  padding: 16px;
+  border-radius: 5px;
+}
+
+.info-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.info {
+  display: flex;
+  gap: 20px;
+}
+
+.company {
+  font-size: 1.1rem;
+}
+
+.job-info {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.date {
+  font-weight: 500;
+}
+
+.job-tags {
+  margin-top: 20px;
+  display: flex;
+  gap: 8px;
+}
+
+.status-container {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  padding-right: 20px;
+}
+
+.icons {
+  display: flex;
+  gap: 16px;
+  align-self: flex-end;
+}
+
+.status {
+  background-color: #bbfeb5;
+  padding: 5px 10px;
+  font-size: 1.1rem;
+  font-weight: 500;
+}
+
+.btn-apply {
+  width: 90%;
+  align-self: flex-end;
+  margin-right: -28px;
+}

@@ -1,0 +1,18 @@
+.section {
+  display: flex;
+  gap: 20px;
+  margin-top: 16px;
+}
+
+.software-skills {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  justify-content: center;
+  align-items: center;
+  margin-left: -50px;
+}
+
+.tag {
+  margin-top: 16px;
+}

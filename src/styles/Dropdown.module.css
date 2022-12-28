@@ -1,0 +1,13 @@
+.dropdown {
+  width: 100px;
+  height: 40px;
+  border-radius: 50px;
+  border: 2px solid black;
+  font-weight: bold;
+  text-align: center;
+  background: transparent;
+}
+
+.option {
+  background-color: white;
+}

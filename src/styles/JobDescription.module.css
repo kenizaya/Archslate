@@ -1,0 +1,25 @@
+.container {
+  background-color: white;
+  padding: 20px 40px;
+  padding-bottom: 80px;
+  padding-right: 10%;
+  box-shadow: rgba(65, 65, 65, 0.1) 1px 1px 1px;
+  font-size: 0.95rem;
+  line-height: 1.4;
+  flex: 1;
+}
+
+.h3 {
+  padding: 16px 0;
+}
+
+.ul {
+  margin-left: 28px;
+}
+
+.button-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 20px;
+}

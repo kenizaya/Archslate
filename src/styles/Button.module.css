@@ -1,0 +1,15 @@
+.button {
+  padding: 8px 20px;
+  border-radius: 100px;
+  display: flex;
+  font-size: 1.03rem;
+  font-weight: bold;
+  gap: 8px;
+}
+
+.icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+}

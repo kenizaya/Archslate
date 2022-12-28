@@ -1,0 +1,18 @@
+.tag {
+  padding: 6px 12px;
+  border-radius: 100px;
+  display: flex;
+  font-size: 0.85rem;
+  gap: 8px;
+  letter-spacing: 0.5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+
+.icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
